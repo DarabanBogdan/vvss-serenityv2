@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: vvssL5.features.scenariu.TestLogin
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.705 s - in vvssL5.features.scenariu.TestLogin

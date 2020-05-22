@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: vvssL5.features.scenariu.TestScenariu
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 45.96 s <<< FAILURE! - in vvssL5.features.scenariu.TestScenariu
+TestScenario(vvssL5.features.scenariu.TestScenariu)  Time elapsed: 16.652 s  <<< ERROR!
+net.thucydides.core.pages.components.FileToUploadCouldNotBeFoundException: File not found: C:\Users\darab\OneDrive\Desktop\vvss-serenityV2\src\test\resources\narrative.txt
+	at vvssL5.features.scenariu.TestScenariu.testUpload(TestScenariu.java:130)
+	at vvssL5.features.scenariu.TestScenariu.TestScenario(TestScenariu.java:50)
+
+testUpload(vvssL5.features.scenariu.TestScenariu)  Time elapsed: 1.68 s  <<< ERROR!
+net.thucydides.core.pages.components.FileToUploadCouldNotBeFoundException: File not found: C:\Users\darab\OneDrive\Desktop\vvss-serenityV2\src\test\resources\narrative.txt
+	at vvssL5.features.scenariu.TestScenariu.testUpload(TestScenariu.java:130)
+
